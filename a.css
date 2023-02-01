@@ -1,0 +1,152 @@
+.head{
+    background-color:rgb(230, 230, 11);
+    height: 40px;
+    text-transform: capitalize;
+}
+.heads{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 220px;
+    top: 10px;
+    font-weight: 940;
+}
+.background{
+    width: 1645px;
+}
+.tile{
+    color: white;
+    position: relative;
+    top: -940px;
+    left: 220px;
+    font-size: x-large;
+    font-family: Verdana;
+    text-transform: capitalize;
+}
+.nav{
+    display: flex;
+    position:relative;
+    top: -990px;
+    left: 620px;
+    font-size: x-large;
+    color: white;
+    text-transform: capitalize;
+}
+.header1{
+    color: white;
+    text-transform: capitalize;
+    margin-left: 60px;
+
+}
+.btn{
+    position: relative;
+    top: -1020px;
+    left: 1460px;
+    background-color: rgb(230, 100, 13);
+    text-transform: capitalize;
+    font-size:22px;
+    color: white;
+    border-radius: 20px;
+    width: 130px;
+    height: 45px;
+    font-family: Verdana;
+}
+.btn:hover{
+    background-color: red;
+}
+.header1:hover{
+    color: rgb(224, 69, 13);
+}
+.maintitle{
+    position: relative;
+    top: -750px;
+    left: 740px;
+    color: white;
+    text-transform: capitalize;
+    font-size: larger;
+}
+.night{
+    position: relative;
+    top: -830px;
+    left: 550px;
+    color: aliceblue;
+    text-transform: capitalize;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, sans-serif;
+}
+
+.lets{
+    position: relative;
+    left: 750px;
+    top: -910px;
+    color: aliceblue;
+    background-color: orangered;
+    width: 140px;
+    font-size: 20px;
+    border-radius: 20px;
+    height: 50px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lets:hover{
+    background-color: red;
+}
+.img{
+    width: 1645px;
+    height: 654px ;
+    position: relative;
+    top: -556px;
+}
+.about-head{
+    position: relative;
+    top: -1120px;
+    left: 90px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.about-inform{
+    position: relative;
+    top: -1120px;
+    left: 90px;
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva,;
+}
+.about-head1{
+    position: relative;
+    top: -1120px;
+    left: 90px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 35px;
+}
+.about-head2{
+    position: relative;
+    top: -1120px;
+    left: 90px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.img-1{
+    width: 850px;
+    position: relative;
+    top: -1520px;
+    left: 720px;
+    border-radius: 20px;
+    filter: brightness(1.5);
+}
+.image-header{
+    position: relative;
+    top: -2000px;
+    left: 740px;
+    color: aliceblue;
+    font-size:x-large;
+    text-transform: capitalize;
+}
+.image-header:hover{
+    color: red;
+    font-size:xx-large ;
+}
